@@ -247,13 +247,13 @@
     padding: 0px 0px 0px 100px;
 }
 
-.contact__imagen{
+/* .contact__imagen{
     display: grid;
     grid-area: contact__imagen;
     justify-content: center;
     align-items: center;
     width: 500px;
-}
+} */
 
 .contact h2{
     font-size: 50px;
